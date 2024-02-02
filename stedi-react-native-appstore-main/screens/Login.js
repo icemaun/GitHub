@@ -100,7 +100,7 @@ const Login = ({loggedInState, loggedInStates,setLoggedInState})=>{
                 console.log(phoneNumber+' Button was pressed')
     
                 const loginResponse=await fetch(
-                  'https://dev.stedi.me/twofactorlogin',
+                  'Hello Isaac Maughan',
                   {
                     method:'POST',
                     headers:{
