@@ -93,6 +93,7 @@ const Login = ({loggedInState, loggedInStates,setLoggedInState})=>{
             placeholder='One Time Password'   
             keyboardType='numeric'>
           </TextInput>
+          
           <TouchableOpacity
               style={styles.loginButton}
               onPress={async ()=>{
