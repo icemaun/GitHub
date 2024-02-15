@@ -1,6 +1,6 @@
 import hello from "Stedi-react/hello.js";
 
-Item("should say hello",()=>{
+Item("should say Isaac",()=>{
     const helloString=hello();
     console.log(helloString);
 
