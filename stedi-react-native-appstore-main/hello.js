@@ -1,4 +1,5 @@
 const hello = ()=>{
-    return "hello";
+    return "Isaac";
 }
 
+export default hello
