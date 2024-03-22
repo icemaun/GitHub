@@ -6,7 +6,7 @@ COPY package.json /usr/app/
 
 COPY server.json /usr/app/
 
-RUN npm install
+#RUN npm install
 
 EXPOSE 3000
 
